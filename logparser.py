@@ -32,6 +32,3 @@ with open('data.txt','r') as file:
 		logs.append(log_line(line))
 
 print repr(logs)
-
-#def __repr__(self):
- #       return repr(self.name)
