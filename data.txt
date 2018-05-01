@@ -1,0 +1,8 @@
+1525061229 src=10.1.1.1 dst=192.168.1.1 srcport=12331 dstport=80
+1525061230 src=10.1.1.1 dst=192.168.1.1 srcport=12332 dstport=81
+1525061230 src=10.1.1.1 dst=192.168.1.1 srcport=12333 dstport=82
+1525061231 src=10.1.1.1 dst=192.168.1.1 srcport=12334 dstport=83
+1525061234 src=192.168.1.1 dst=10.1.1.1 srcport=83 dstport=121331
+1525061235 src=10.1.1.1 dst=192.168.1.1 srcport=12334 dstport=84
+1525061236 src=10.1.1.1 dst=192.168.1.1 srcport=12334 dstport=85
+1525061238 src=10.1.1.1 dst=192.168.1.1 srcport=12334 dstport=86
