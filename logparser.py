@@ -33,5 +33,5 @@ with open('data.txt','r') as file:
 
 print repr(logs)
 
-def __repr__(self):
-        return repr(self.name)
+#def __repr__(self):
+ #       return repr(self.name)
